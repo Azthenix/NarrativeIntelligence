@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XA5c5+18NzuJAQDknoiHilDP8sWwxUe2+rWLMv/8XJyp/4HkbBXsIWMcD6RceDMBoDOfJXpLSWlXcSI6MFyCcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\NarrativeIntelligence\\NarrativeIntelligence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
